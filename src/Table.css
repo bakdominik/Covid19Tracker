@@ -12,5 +12,5 @@
     border: none
 }
 .table tr:nth-of-type(odd) {
-    background-color: lightyellow;
+    background-color: lightgray;
 }
